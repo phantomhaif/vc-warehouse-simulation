@@ -15,3 +15,9 @@ Thumbs.db
 local/
 results/raw/
 sources/private/
+# Customer documents and downloaded third-party forum examples stay local until redistribution rights are confirmed.
+/projects/asrs-b/customer-layout-ASRS-B.pdf
+/projects/asrs-b/customer-requirements.txt
+/projects/asrs-b/references/forum/*.vcmx
+/projects/asrs-b/references/forum/*.xlsx
+/projects/asrs-b/references/forum/*.pdf
