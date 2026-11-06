@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+local/
+results/raw/
+sources/private/

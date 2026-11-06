@@ -1,0 +1,14 @@
+{
+  "id": "example-component",
+  "version": "0.1.0",
+  "status": "draft",
+  "description": "Заменить описанием назначения",
+  "owner": "replace-with-github-login",
+  "compatibility": {"product": "Visual Components", "version": "unverified", "python": "unverified"},
+  "units": {"length": "mm", "time": "s", "speed": "mm/s"},
+  "model": null,
+  "scripts": [],
+  "dependencies": [],
+  "test_scenarios": [],
+  "evidence": []
+}

@@ -1,0 +1,14 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.vcmx filter=lfs diff=lfs merge=lfs -text lockable
+*.vcm filter=lfs diff=lfs merge=lfs -text lockable
+*.vcp filter=lfs diff=lfs merge=lfs -text lockable
+*.rpro filter=lfs diff=lfs merge=lfs -text lockable
+*.step filter=lfs diff=lfs merge=lfs -text lockable
+*.stp filter=lfs diff=lfs merge=lfs -text lockable
+*.stl filter=lfs diff=lfs merge=lfs -text lockable
+*.fbx filter=lfs diff=lfs merge=lfs -text lockable
+*.zip filter=lfs diff=lfs merge=lfs -text
